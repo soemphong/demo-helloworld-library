@@ -1,11 +1,11 @@
 from setuptools import setup
 
 setup(
-    name="helloworld-library",
+    name="Pong_helloworld-library",
     version='1.0',
     package_dir={'' : 'src'},
     packages=['HelloWorld'],
-    url='https://github.com/up1/demo-helloworld-library',
-    author='Somkiat',
-    author_email='somkiat.p@gmail.com',
+    url='https://github.com/soemphong/demo-helloworld-library',
+    author='Soemphong',
+    author_email='soemphong.j@gmail.com',
 )
